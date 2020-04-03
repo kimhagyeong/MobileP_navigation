@@ -1,4 +1,4 @@
-# secondMoblieprogramingTask
+# MobileProgramming_navigation
 모프 두번째과제와 깃에 업데이트하기 연습
 
 * tool : android studio
